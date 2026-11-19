@@ -47,6 +47,14 @@ Work from chat, the visual HUD, your phone, or a Zoom call. Start with one NetCl
 
 The community's podcast. The VibeOps Lounge is a recurring video series where John sits down with the people actually building at the intersection of AI, MCP, and network ops – interviews, AMAs, unscripted takes, and live demos. No slides. No pitch. Just builders getting into it and figuring this stuff out together.
 
+### 🧰 Infrastructure Agent Skills
+
+**[Infrastructure Agent Skills Directory](https://infraagentskills.ai/)** · **[infra-agent-skills](https://github.com/itential/infra-agent-skills)**
+
+A directory of **336 agent skills** for network and infrastructure work – BGP troubleshooting, IPAM allocation, change management, device upgrades – contributed by Cisco, Juniper, Arista, AWS, NetBox Labs, Itential, and others.
+
+Every skill follows [Agent Skills](https://agentskills.io/specification), the open standard Anthropic released and now develops under the Agentic AI Foundation – so the same procedure runs in Claude, Copilot, Cursor, Gemini CLI, Codex, or FlowAI. **Open to anyone** – [add yours](https://infraagentskills.ai/contribute/).
+
 ### 🤖 Itential FlowAI
 
 **[Itential FlowAI](https://www.itential.com/flowai/)**
@@ -62,6 +70,7 @@ We're all figuring this out as we go. If you're not sure where to start, here ar
 | Project | Why |
 | :--- | :--- |
 | **[netclaw](https://github.com/automateyournetwork/netclaw)** | Start here. An agentic network engineering coworker, and the deep end of what this looks like. |
+| **[Infra Agent Skills](https://infraagentskills.ai/)** | The skills pattern: tools let an agent act – skills teach it how the job is actually done. |
 | **[pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP)** | The MCP pattern: run show commands and parse them into structured data. |
 | **[NetworkingVideoGameStarterKit](https://github.com/automateyournetwork/NetworkingVideoGameStarterKit)** | Spec-driven development, three files, zero blast radius. |
 | **[netbox_react_agent](https://github.com/automateyournetwork/netbox_react_agent)** | The agent pattern: plain-English CRUD against your source of truth. |
@@ -205,6 +214,7 @@ We're all figuring this out as we go. If you're not sure where to start, here ar
 - **[chatgpt_client](https://github.com/automateyournetwork/chatgpt_client)** – An interactive Python client for chatGPT
 - **[CodingWithCapo](https://github.com/automateyournetwork/CodingWithCapo)** – Creating a chatGPT client with Python
 - **[ConfigurationCopilot](https://github.com/automateyournetwork/ConfigurationCopilot)** – A copilot for network configurations
+- **[infra-agent-skills](https://github.com/itential/infra-agent-skills)** – Itential's open source Agent Skills for infrastructure ops: 40 capability skills covering DNS, IPAM, firewall, change management, and upgrades across 129 vendor platforms. Indexed with the wider ecosystem at [infraagentskills.ai](https://infraagentskills.ai/)
 - **[itential_agent_catalogue](https://github.com/automateyournetwork/itential_agent_catalogue)** – Working example
 - **[spec-kit](https://github.com/github/spec-kit)** – Open source toolkit from GitHub giving coding agents structured processes, templates, and documented outcomes: spec-driven development, bug fixing, and idea assessment
 - **[toad](https://github.com/automateyournetwork/toad)** *(fork)* – A unified interface for AI in your terminal.
@@ -307,4 +317,4 @@ See [LICENSE](./LICENSE).
 
 ---
 
-*110 projects · last verified 2026-09-08*
+*111 projects · last verified 2026-11-19*
